@@ -8,11 +8,19 @@
         <language>zh-cn</language>
         <copyright>惆源小畅</copyright>
         <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cyxc11.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>测试</title>
-        <link>https://cyxc11.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
+        <title>WIP</title>
+        <link>https://cyxc11.github.io/categories/wip/</link>
         <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://cyxc11.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>https://cyxc11.github.io/categories/wip/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>施工</title>
+        <link>https://cyxc11.github.io/categories/%E6%96%BD%E5%B7%A5/</link>
+        <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://cyxc11.github.io/categories/%E6%96%BD%E5%B7%A5/</guid>
         <description></description>
         </item>
         <item>
@@ -22,6 +30,14 @@
         
         <guid>https://cyxc11.github.io/categories/test/</guid>
         <description>&lt;img src="https://cyxc11.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://cyxc11.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://cyxc11.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
         </item>
         <item>
         <title>Syntax</title>
